@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mimblu</string>
+    <string name="logout">Logout</string>
+    <string name="mimbu">mimbu</string>
+    <string name="mimblu" />
+    <string name="mimblu2">mimblu</string>
+    <string name="what_led_you_to_mimblu_today">What led you to Mimblu today?</string>
+    <string name="text2">Help us find you the best selection of counsellors to choose from</string>
+    <string name="text4">Mimblu is up to 5x cheaper\n than in-person therapy</string>
+    <string name="text3">Pick your plan to continue</string>
+    <string name="button_text">Show Me My Matches</string>
+    <string name="the_abhishek_jaiswal">The Abhishek Jaiswal</string>
+    <string name="ct">Continue</string>
+    <string name="text">Text</string>
+    <string name="video">+ Video</string>
+    <string name="mimblutext">mimblu</string>
+    <string name="lite">lite</string>
+    <string name="plus">PLUS</string>
+    <string name="live">LIVE</string>
+</resources>
